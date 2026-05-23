@@ -1,6 +1,6 @@
 # MedQA Small Language Model Benchmark
 
-This MedQA-specific benchmark is being extended by the author into a multi-dataset MedVQA benchmark. The new project will be available at [Multi-MedVQA Datasets Small Language Model Benchmark](https://github.com/machiyuan03/multi_medvqa_datasets_slm_benchmark) after it is made public.
+This MedQA-specific benchmark is being extended by the author into a multi-dataset MedQA benchmark. The new project will be available at [Multi-MedQA Datasets Small Language Model Benchmark](https://github.com/machiyuan03/multi_medqa_datasets_slm_benchmark) after it is made public.
 
 This repository provides a lightweight evaluation pipeline and released model outputs for benchmarking small language models on MedQA-style multiple-choice medical questions in English, Simplified Chinese, and Traditional Chinese.
 
